@@ -11,7 +11,4 @@ define('DIRECCION_EMPRESA', 'FLORENCIA CAQUETA');
 define('TELEFONO_EMPRESA', '3166717847');
 define('EMAIL_EMPRESA', 'repuestosparamotoscolombia@gmail.com');
 define('TAX', '13');
-
-
-
 ?>
