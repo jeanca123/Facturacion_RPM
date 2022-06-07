@@ -71,29 +71,3 @@
   }
 }
 
-/*Nueva factura*/
-.container .panel-heading{
-  color: white;
-  background-color: orange;
-  border-color: black;
-  border-width: 5px;
-}
-
-.btn-primary{
-  background-color: orange;
-  border-color: black;
-}
-.btn{
-  color: white;
-  background-color: orange;
-  border-color: black;
-}
-.btn:hover{
-  color: white;
-background-color: black;
-}
-.btn:active{
-  color: white;
-background-color: black;
-}
-
